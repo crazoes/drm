@@ -1,0 +1,4 @@
+files
+__pycache__/
+.env/
+.app.py.swp .nucy.py.swp
